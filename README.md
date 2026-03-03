@@ -1,4 +1,4 @@
- Hi! I'm Quang, a Computer Science Student at the Unviersity of Houston 😀
+ Hi! I'm Quang, a motivated and driven software developer/enginner 😀
 
 I have hands-on experience in:
 - full-stack website development 🖥️
