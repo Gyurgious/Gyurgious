@@ -1,4 +1,4 @@
- Hi! I'm Quang, a motivated and driven software developer/enginner 😀
+ Hi! I'm Quang, a motivated and driven software developer/engineer 😀
 
 I have hands-on experience in:
 - full-stack website development 🖥️
